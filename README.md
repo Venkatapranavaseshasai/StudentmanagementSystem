@@ -35,7 +35,7 @@ Before diving in, ensure you have the following:
 1. **Clone the Repository:** Obtain your own copy of the project:
 
    ```sh
-   git clone https://github.com/EhsanulHaqueSiam/StudentManagementSystem.git
+   git clone https://github.com/Venkatapranavaseshasai/StudentmanagementSystem
    ```
 
 2. **Database Configuration:** Configure the database connection:
@@ -137,4 +137,5 @@ For inquiries, suggestions, or feedback, please don't hesitate to reach out to u
 📧  saipranava840@gmail.com
 
 Embark on this coding journey with confidence and wield your newfound skills to manage students with finesse! 🧙‍♂️✨
+
 
