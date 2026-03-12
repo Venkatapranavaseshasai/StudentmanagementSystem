@@ -134,6 +134,7 @@ Your invaluable guidance has played a pivotal role in shaping this project, fost
 
 For inquiries, suggestions, or feedback, please don't hesitate to reach out to us:
 
-📧 [ehsanul.siamdev@gmail.com](mailto:ehsanul.siamdev@gmail.com)
+📧  saipranava840@gmail.com
 
 Embark on this coding journey with confidence and wield your newfound skills to manage students with finesse! 🧙‍♂️✨
+
